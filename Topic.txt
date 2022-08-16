@@ -1,0 +1,6 @@
+1	English
+2	Pk
+3	OOP
+4	LA
+5	MM
+6	Programming
